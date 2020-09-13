@@ -11,6 +11,21 @@
 
 ---
 ## :dart: Objetivos
+![](Imagenes/c++.png)
+
+Punto de Control #08 en C++ mostrara:
+
+1. Uso de Makefile para compilar un programa
+
+2. Identificar la diferencia entre distintos tipos de compilación usando makefile
+
+2. Uso de ncurses para manejar ventanas
+
+
+## Asignación 1
+## Asignación 2
+## :black_large_square: Asignacion2_PDC8.cpp
+![](Imagenes/Asignacion2.png)
 
 ## :computer: Código
 - :blue_book: [Punto de Control #08] (https://github.com/m-rojas18/C_PDC8.git)
