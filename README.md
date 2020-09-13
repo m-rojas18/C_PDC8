@@ -12,6 +12,9 @@
 ---
 ## :dart: Objetivos
 
+## :computer: Código
+- :blue_book: [Punto de Control #08] ()
+
 #### Herramientas:
 - :package: [Visual Studio Code](https://code.visualstudio.com/)
 - :camera: [Polacode-2020 v0.5.2](https://github.com/jeff-hykin/polacode)
