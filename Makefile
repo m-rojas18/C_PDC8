@@ -1,5 +1,5 @@
 all:
 	g++ Asignacion2_PDC8.cpp \
-	-lncurses -o run
+	-lncurses -o asignacion2
 clean:
-	rm run
+	rm asignacion2
