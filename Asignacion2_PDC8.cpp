@@ -10,7 +10,7 @@ int main(){
 
     while(salir != 27){//Ascii para tecla ESC
         //Mostrar ventana 1
-        WINDOW *ventana_1 = newwin(maximo_y/2,maximo_x / 2, 0,0);
+        WINDOW *ventana_1 = newwin(maximo_y/2,maximo_x/2, 0,0);
         start_color();
         box(ventana_1,0,0);
         refresh();
@@ -24,7 +24,7 @@ int main(){
         wrefresh(ventana_1);
 
         //Mostrar Ventana 2
-        WINDOW *ventana_2 = newwin(maximo_y / 2, maximo_x / 2, 0, maximo_x / 2);
+        WINDOW *ventana_2 = newwin(maximo_y/2, maximo_x/2, 0, maximo_x/2);
         box(ventana_2,0,0);
         wrefresh(ventana_2);
 
@@ -35,7 +35,7 @@ int main(){
         wclear(ventana_2);
         wrefresh(ventana_2);
 
-        WINDOW *ventana_3 = newwin(maximo_y / 2, maximo_x / 2, maximo_y / 2, 0);
+        WINDOW *ventana_3 = newwin(maximo_y/2, maximo_x/2, maximo_y/2, 0);
         box(ventana_3,0,0);
         wrefresh(ventana_3);
         salir = getch();
@@ -45,7 +45,7 @@ int main(){
         wclear(ventana_3);
         wrefresh(ventana_3);
     
-        WINDOW *ventana_4 = newwin(maximo_y / 2, maximo_x / 2, maximo_y / 2, maximo_x / 2);
+        WINDOW *ventana_4 = newwin(maximo_y/2, maximo_x/2, maximo_y/2, maximo_x/2);
         box(ventana_4,0,0);
         wrefresh(ventana_4);
 
