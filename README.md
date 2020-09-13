@@ -13,7 +13,7 @@
 ## :dart: Objetivos
 
 ## :computer: Código
-- :blue_book: [Punto de Control #08] ()
+- :blue_book: [Punto de Control #08] (https://github.com/m-rojas18/C_PDC8.git)
 
 #### Herramientas:
 - :package: [Visual Studio Code](https://code.visualstudio.com/)
