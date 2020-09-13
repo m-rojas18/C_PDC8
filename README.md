@@ -23,6 +23,9 @@ Punto de Control #08 en C++ mostrara:
 
 
 ## Asignación 1
+
+En todas las formas de compilación el tamaño de los archivos generados para correr el programa deseado son del mismo tamaño. La compilacion normal es la mas simple y funciona cuando el programa no necesita codigo de otro programa. Los tipos de compilacion estatica y compartida generan mas archivos y pueden confundir en un programa pero dan la ventaja de poder utilizar codigo ya creado en otro programa en el trabajo actual.
+
 ## Asignación 2
 ## :black_large_square: Asignacion2_PDC8.cpp
 ![](Imagenes/Asignacion2_PDC8.png)
