@@ -25,7 +25,21 @@ Punto de Control #08 en C++ mostrara:
 ## Asignación 1
 ## Asignación 2
 ## :black_large_square: Asignacion2_PDC8.cpp
-![](Imagenes/Asignacion2.png)
+![](Imagenes/Asignacion2_PDC8.png)
+
+## :large_orange_diamond: Makefile
+![](Imagenes/Makefile.png)
+
+## :red_circle: Salida
+![](Imagenes/Salida1.png)
+![](Imagenes/Salida2.png)
+![](Imagenes/Salida3.png)
+![](Imagenes/Salida4.png)
+
+## Descripción:
+-> El programa crea una ventana a la vez y la muestra con respecto a la terminal, cuando se presiona cualquier tecla distinta a la tecla "esc" muestra la siguiente ventana en el cuadrante correspondiente.
+
+
 
 ## :computer: Código
 - :blue_book: [Punto de Control #08] (https://github.com/m-rojas18/C_PDC8.git)
